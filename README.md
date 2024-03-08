@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Andrei Morie
+### <h1>Hi there 👋, I'm Andrei Morie</h1>
 
 <!--
 - 🔭 I’m currently working on ...
