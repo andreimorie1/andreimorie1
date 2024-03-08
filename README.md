@@ -4,6 +4,7 @@
 <hr>
 
 - 🔭 I’m a student
+- Studying at T.I.P
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=andreimorie1)
