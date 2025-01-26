@@ -5,6 +5,7 @@
 
 - 🔭 I’m a student
 - Studying at T.I.P
+- learning programming and other computer stuff like hardwares
 
 ![Uploading smug-smile.gif…]()
 
